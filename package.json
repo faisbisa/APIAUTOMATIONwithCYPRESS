@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "cypress": "^12.6.0"
+  },
+  "name": "apiautomationwithcypress",
+  "description": "Cypress API Automation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "npx cypress run",
+    "open": "npx cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faisbisa/APIAUTOMATIONwithCYPRESS.git"
+  },
+  "keywords": [
+    "test",
+    "api",
+    "automation",
+    "with",
+    "cypress"
+  ],
+  "author": "fais",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/faisbisa/APIAUTOMATIONwithCYPRESS/issues"
+  },
+  "homepage": "https://github.com/faisbisa/APIAUTOMATIONwithCYPRESS#readme"
+}
